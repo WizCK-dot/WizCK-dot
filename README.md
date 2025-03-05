@@ -1,14 +1,12 @@
-<!--
-**BJ-dev0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
- <!-- ![Header](https://your-image-link.com/banner.png) Replace with your custom banner -->
-
 <div align="center">
-  <h1>Hi there, I'm Wizard 👋</h1>
-  <em>Decentralized Applications Enthusiast | Blockchain Developer | Full-Stack Engineer</em>
+  <h1>Hi there, I'm Chi Kit 👋</h1>
+  <em>Software Engineer</em>
+  <br />
+  <em>I am a skilled Full-Stack, Blockchain, Mobile, and AI Developer 
+  who builds powerful and scalable digital solutions. From web and 
+  mobile apps to blockchain systems and AI-driven innovations, 
+  I create efficient, user-friendly, and future-ready technologies 
+  that help businesses grow.</em>
 </div>
 
 ---
